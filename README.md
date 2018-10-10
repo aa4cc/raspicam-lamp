@@ -35,6 +35,6 @@ The values of the components were determined based on the LED driver (AP8801) da
 
 As our light board is made of aluminium and the heat dissipates massively, we recommend to solder the LEDs as shown in the following picture:
 
-![LEDSoldering](img/LEDSoldering)
+![LEDSoldering](img/LEDSoldering.jpg)
 
 The board is heated with hot air from beneath and the solder pad gets heated from the soldering iron.
