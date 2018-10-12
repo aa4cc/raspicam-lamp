@@ -11,15 +11,15 @@ Here is the [schematic and board](https://cadlab.io/project/1334).
 ## Components
  (numbers hold for one board)
 
- |	Part				|	Manufacturer	|	Manufacturer No.		|	Farnell/Mouser Ref.			|	Pieces	|
- |	-----				|	-----			|	-----					|	-----						|	-----	|
- |	LED 				|	OSRAM			|	DURIS E5 GW-JDSTS2.EM 	|	<https://bit.ly/2IO0KUW>[!]	|	24		|
- |	LED driver 			|	DIODES 			|	AP8801 					|	<https://bit.ly/2E9jP5u>	|	2		|
- |	Capacitor 			|	TAIYO YUDEN 	|	HMK325BJ475KN-TE 		|	<https://bit.ly/2Oex5dw> 	|	2		|
- |	Inductor 			|	BOURNS 			|	SRN8040TA-101M 			|	<https://bit.ly/2NzDQ4y> 	|	2		|
- |	Resistor 1R1		|	KOA SPEER 		|	RK73H1JTTD1R10F 		|	<https://bit.ly/2QF4E5e>	|	2		|
- |	Schottky Rectifier 	|	VISHAY 			|	SS1H10-E3/61T 			|	<https://bit.ly/2ywoOXw>	|	2		|
- |	Trimmer 			|	BOURNS 			|	TC33X-2-103E 			|	<https://bit.ly/2yaW6MC>	|	1		|
+ |	Part				|	Manufacturer	|	Manufacturer No.			|	Farnell/Mouser Ref.			|	Pieces	|
+ |	-----				|	-----			|	-----						|	-----						|	-----	|
+ |	LED 				|	OSRAM			|	GW JDSTS2.EM-H4H7-XX33-1 	|	<https://bit.ly/2IQPlnt>	|	24		|
+ |	LED driver 			|	DIODES 			|	AP8801 						|	<https://bit.ly/2E9jP5u>	|	2		|
+ |	Capacitor 			|	TAIYO YUDEN 	|	HMK325BJ475KN-TE 			|	<https://bit.ly/2Oex5dw> 	|	2		|
+ |	Inductor 			|	BOURNS 			|	SRN8040TA-101M 				|	<https://bit.ly/2NzDQ4y> 	|	2		|
+ |	Resistor 1R1		|	KOA SPEER 		|	RK73H1JTTD1R10F 			|	<https://bit.ly/2QF4E5e>	|	2		|
+ |	Schottky Rectifier 	|	VISHAY 			|	SS1H10-E3/61T 				|	<https://bit.ly/2ywoOXw>	|	2		|
+ |	Trimmer 			|	BOURNS 			|	TC33X-2-103E 				|	<https://bit.ly/2yaW6MC>	|	1		|
 
 The values of the components were determined based on the LED driver (AP8801) datasheet.
 
